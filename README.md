@@ -1,2 +1,2 @@
 # Excel-Basics-for-Data-Analysis
-This is the course of Excel from IBM.
+These are some notes of the Excel course from IBM.
